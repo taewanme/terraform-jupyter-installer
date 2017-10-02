@@ -60,7 +60,7 @@ ssh public key 파일과 ssh private key 파일 위치는 ssh_public_key_file과
 Terraform 다운로드 URL은 https://www.terraform.io/downloads.html 입니다. Terraform은 Go-lang으로 개발되어 있습니다. Terraform은 1개의 실행 파일로 구성되어 있습니다. 테라폼 홈페이지 다운로드 사이트[그림 1 참조]에서는 Mac OS X, FreeBSD, Linux, OpenBSD, Solaris, Windows용 실행파일을 제공합니다. 데모에 사용할 컴퓨터의 운영체제와 비트에 맞는 파일을 내려받고, Zip 파일 포맷으로 제공된 파일의 압축을 풀면 “terraform” 실행 파일이 생깁니다. 이 실행 파일의 위치는 PATH 환경 변수에 추가하여 어디서든지 실행할 수 있도록 준비합니다. Terraform 설치는 이것으로 완료되었습니다.
 
 - 그림 1. Terraform 다운로드 페이지
-![](https://oracloud-img-repo.github.io/2017/10/img010.jpg)
+![](https://oracloud-img-repo.github.io/2017/10/terraform_jupyter/img010.jpg)
 
 ## Terraform Jupyter Installer를 이용한 Jupyter VM 생성
 
@@ -103,10 +103,10 @@ Compute Classic 세부 정보 페이지에서 도메인과 endpoint 정보를 �
 variable.tf 파일의 domain과  endpoint에 설정합니다.
 
 - 그림 2. 오라클 클라우드 대시보드에서 Compute Classic 세부 정보 페이지 이동
-![](https://oracloud-img-repo.github.io/2017/10/img020.jpg)
+![](https://oracloud-img-repo.github.io/2017/10/terraform_jupyter/img020.jpg)
 
 - 그림 3. Compute Classic 세부 정보 페이지에서 도메인명과 REST Endpoint 정보 조회
-![](https://oracloud-img-repo.github.io/2017/10/img030.jpg)
+![](https://oracloud-img-repo.github.io/2017/10/terraform_jupyter/img030.jpg)
 
 #### ssh_public_key_file & ssh_private_key_file
 
@@ -198,13 +198,13 @@ opc_compute_security_application.jupyter: Creating...
 jupyter에 로그인하여 그림 4 ~ 6과 같이 jupyter를 즐길 수 있습니다.
 
 - 그림 4. jupyter 접속: 패스워드 - Welcome1
-![](https://oracloud-img-repo.github.io/2017/10/img040.jpg)
+![](https://oracloud-img-repo.github.io/2017/10/terraform_jupyter/img040.jpg)
 
 - 그림 5. 데모 jupyter 노트북: demo.ipython
-![](https://oracloud-img-repo.github.io/2017/10/img050.jpg)
+![](https://oracloud-img-repo.github.io/2017/10/terraform_jupyter/img050.jpg)
 
 - 그림 6. demo notebook
-![](https://oracloud-img-repo.github.io/2017/10/img060.jpg)
+![](https://oracloud-img-repo.github.io/2017/10/terraform_jupyter/img060.jpg)
 
 ## Terraform Jupyter Installer 데모
 
