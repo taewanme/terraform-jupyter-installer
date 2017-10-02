@@ -210,4 +210,4 @@ jupyter에 로그인하여 그림 4 ~ 6과 같이 jupyter를 즐길 수 있습�
 
 Terraform Jupyter Installer 실행 방법 데모는 youtube에서 확인할 수 있습니다. 동영상을 재생하기 위해서는 아래 이미지를 클립하시기 바랍니다.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QV_Ljb1L8Fw/0.jpg)](https://www.youtube.com/watch?v=QV_Ljb1L8Fw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vu0D4mOBQlw/0.jpg)](https://www.youtube.com/watch?v=vu0D4mOBQlw)
